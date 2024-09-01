@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="437.779" height="61.799" viewBox="0 0 437.779 61.799">
+  <g id="Group_25" data-name="Group 25" transform="translate(-741.965 -263)">
+    <rect id="Shadow" width="105.375" height="25.164" rx="12.582" transform="translate(742.465 263.5)" fill="none" stroke="#0d2436" stroke-width="1"/>
+    <g id="Group_19" data-name="Group 19" transform="translate(742.465 263.5)">
+      <rect id="Fill" width="105.375" height="25.164" rx="12.582" fill="none" stroke="#0d2436" stroke-width="1"/>
+      <text id="Label" transform="translate(50.696 15.345)" font-size="10" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="-21" y="0">Lebanon</tspan></text>
+    </g>
+    <g id="Group_19-2" data-name="Group 19" transform="translate(852.933 263.5)">
+      <rect id="Fill-2" data-name="Fill" width="105.375" height="25.164" rx="12.582" transform="translate(0)" fill="none" stroke="#0d2436" stroke-width="1"/>
+      <text id="Label-2" data-name="Label" transform="translate(50.066 15.345)" font-size="10" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="-36" y="0">Current events</tspan></text>
+    </g>
+    <g id="Group_19-3" data-name="Group 19" transform="translate(963.401 263.5)">
+      <rect id="Fill-3" data-name="Fill" width="105.375" height="25.164" rx="12.582" fill="none" stroke="#0d2436" stroke-width="1"/>
+      <text id="Label-3" data-name="Label" transform="translate(51.447 15.345)" font-size="10" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="-16" y="0">Nature</tspan></text>
+    </g>
+    <g id="Group_19-4" data-name="Group 19" transform="translate(1073.869 263.5)">
+      <rect id="Fill-4" data-name="Fill" width="105.375" height="25.164" rx="12.582" transform="translate(0)" fill="none" stroke="#0d2436" stroke-width="1"/>
+      <text id="Label-4" data-name="Label" transform="translate(49.63 15.345)" font-size="10" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="-33" y="0">Humanitarian</tspan></text>
+    </g>
+    <g id="Group_19-5" data-name="Group 19" transform="translate(742.465 299.135)">
+      <rect id="Fill-5" data-name="Fill" width="105.375" height="25.164" rx="12.582" fill="none" stroke="#0d2436" stroke-width="1"/>
+      <text id="Label-5" data-name="Label" transform="translate(50.884 15.345)" font-size="10" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="-20" y="0">Editorial</tspan></text>
+    </g>
+    <g id="Group_19-6" data-name="Group 19" transform="translate(852.933 299.135)">
+      <rect id="Fill-6" data-name="Fill" width="105.375" height="25.164" rx="12.582" transform="translate(0)" fill="none" stroke="#0d2436" stroke-width="1"/>
+      <text id="Label-6" data-name="Label" transform="translate(50.696 15.345)" font-size="10" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="-20" y="0">Creative</tspan></text>
+    </g>
+    <g id="Group_19-7" data-name="Group 19" transform="translate(963.401 299.135)">
+      <rect id="Fill-7" data-name="Fill" width="105.375" height="25.164" rx="12.582" fill="none" stroke="#0d2436" stroke-width="1"/>
+      <text id="Label-7" data-name="Label" transform="translate(51.447 15.345)" font-size="10" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="-17" y="0">Design</tspan></text>
+    </g>
+  </g>
+</svg>

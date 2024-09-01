@@ -1,0 +1,9 @@
+<svg id="Item" xmlns="http://www.w3.org/2000/svg" width="170" height="262" viewBox="0 0 170 262">
+  <rect id="Base" width="165" height="262" fill="none"/>
+  <text id="Product" transform="translate(0 19)" fill="#5a7184" font-size="18" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="0" y="0">Popular Categories</tspan></text>
+  <text id="Documentation" transform="translate(0 165)" fill="#959ead" font-size="16" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Current Events</tspan></text>
+  <text id="Referral_Program" data-name="Referral Program" transform="translate(0 211)" fill="#959ead" font-size="16" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Gaza</tspan></text>
+  <text id="Pricing" transform="translate(0 257)" fill="#959ead" font-size="16" font-family="Inter-Regular, Inter"><tspan x="0" y="0">International</tspan></text>
+  <text id="Features" transform="translate(0 119)" fill="#959ead" font-size="16" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Middle East</tspan></text>
+  <text id="Landingpage" transform="translate(0 73)" fill="#959ead" font-size="16" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Beirut</tspan></text>
+</svg>

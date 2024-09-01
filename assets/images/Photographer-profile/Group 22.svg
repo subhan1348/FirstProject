@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="62" viewBox="0 0 240 62">
+  <defs>
+    <filter id="Rectangle_44" x="0" y="0" width="240" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_22" data-name="Group 22" transform="translate(-364.465 -373.5)">
+    <g transform="matrix(1, 0, 0, 1, 364.46, 373.5)" filter="url(#Rectangle_44)">
+      <rect id="Rectangle_44-2" data-name="Rectangle 44" width="222" height="44" rx="8" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <text id="Pricillia_Makalew" data-name="Pricillia Makalew" transform="translate(387.465 407.5)" font-size="14" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Connect</tspan></text>
+    <text id="Pricillia_Makalew-2" data-name="Pricillia Makalew" transform="translate(501.465 407.5)" font-size="14" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Follow</tspan></text>
+    <g id="message-square-dots_curved" transform="translate(433.383 369.5)">
+      <path id="Path_35" data-name="Path 35" d="M35.194,30.028H35.2m-3.453,0h.009m-3.453,0h.009m-4.314,0C24,25.418,25.824,24,31.75,24s7.75,1.418,7.75,6.028-1.823,6.028-7.75,6.028q-.44,0-.85-.011L27.444,39.5V35.62C24.889,34.91,24,33.247,24,30.028Z" fill="none" stroke="#0d2436" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+    <g id="Group_21" data-name="Group 21" transform="translate(22387.465 239.674)">
+      <path id="Path_37" data-name="Path 37" d="M1067.552,94.461h-8.933a4.17,4.17,0,0,0-4.169,4.169v8.933a4.17,4.17,0,0,0,4.169,4.169h8.933a4.17,4.17,0,0,0,4.169-4.169V98.63a4.17,4.17,0,0,0-4.169-4.169m2.68,12.8a2.979,2.979,0,0,1-2.978,2.978h-8.338a2.979,2.979,0,0,1-2.978-2.978V98.928a2.979,2.979,0,0,1,2.978-2.978h8.338a2.979,2.979,0,0,1,2.978,2.978Z" transform="translate(-22879.072 58.365)" fill="#0d2436"/>
+      <path id="Path_38" data-name="Path 38" d="M1109.328,144.771a4.467,4.467,0,1,0,4.467,4.467,4.468,4.468,0,0,0-4.467-4.467m0,7.445a2.978,2.978,0,1,1,2.978-2.978,2.983,2.983,0,0,1-2.978,2.978" transform="translate(-22925.307 12.224)" fill="#0d2436"/>
+      <path id="Path_39" data-name="Path 39" d="M1206.373,132.184a.893.893,0,1,1,.893-.893.894.894,0,0,1-.893.893" transform="translate(-23017.588 25.407)" fill="#0d2436"/>
+    </g>
+    <line id="Line_5" data-name="Line 5" y2="24" transform="translate(490.965 390)" fill="none" stroke="#d4d3cf" stroke-width="1"/>
+  </g>
+</svg>

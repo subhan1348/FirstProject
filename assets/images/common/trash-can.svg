@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.638" height="19.411" viewBox="0 0 16.638 19.411">
+  <g id="trash-can" transform="translate(-24 -12)">
+    <path id="Path_345" data-name="Path 345" d="M72,72h1.386v8.319H72Z" transform="translate(-42.454 -53.068)" fill="#c9c9c9"/>
+    <path id="Path_346" data-name="Path 346" d="M108,72h1.386v8.319H108Z" transform="translate(-74.295 -53.068)" fill="#c9c9c9"/>
+    <path id="Path_347" data-name="Path 347" d="M24,36v1.386h1.386V51.251a1.386,1.386,0,0,0,1.386,1.386H37.865a1.386,1.386,0,0,0,1.386-1.386V37.386h1.386V36Zm2.773,15.251V37.386H37.865V51.251Z" transform="translate(0 -21.227)" fill="#c9c9c9"/>
+    <path id="Path_348" data-name="Path 348" d="M72,12h5.546v1.386H72Z" transform="translate(-42.454)" fill="#c9c9c9"/>
+  </g>
+</svg>

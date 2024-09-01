@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="271" height="126" viewBox="0 0 271 126">
+  <g id="Group_4" data-name="Group 4" transform="translate(-186 -312.5)">
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="271" height="35" transform="translate(186 332.5)" fill="#eee"/>
+    <rect id="Rectangle_84" data-name="Rectangle 84" width="271" height="35" transform="translate(186 403.5)" fill="#eee"/>
+    <text id="Johndoe_example.com" data-name="Johndoe@example.com" transform="translate(196 354.5)" fill="#6d7278" font-size="12" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Johndoe@example.com</tspan></text>
+    <text id="Password" transform="translate(196 425.5)" fill="#6d7278" font-size="12" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Password</tspan></text>
+    <text id="Email" transform="translate(186 324.5)" fill="#6d7278" font-size="12" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="0" y="0">Email</tspan></text>
+    <text id="Password-2" data-name="Password" transform="translate(186 395.5)" fill="#6d7278" font-size="12" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="0" y="0">Password</tspan></text>
+  </g>
+</svg>

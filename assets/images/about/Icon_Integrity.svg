@@ -1,0 +1,5 @@
+<svg id="Icon_Integrity" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <rect id="Base" width="40" height="40" fill="none"/>
+  <path id="Path" d="M22.222,12.7v7.143a2.381,2.381,0,0,1-2.381,2.381H2.381A2.381,2.381,0,0,1,0,19.841V2.381A2.381,2.381,0,0,1,2.381,0H9.524V8.73A3.968,3.968,0,0,0,13.492,12.7Z" transform="translate(3.333 14.444)" fill="#b4ccef"/>
+  <path id="Path-2" data-name="Path" d="M2.381,0h17.46a2.381,2.381,0,0,1,2.381,2.381v17.46a2.381,2.381,0,0,1-2.381,2.381H2.381A2.381,2.381,0,0,1,0,19.841V2.381A2.381,2.381,0,0,1,2.381,0Z" transform="translate(14.444 3.333)" fill="blue"/>
+</svg>
